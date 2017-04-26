@@ -41,6 +41,9 @@ input[type=submit] {
     font-size: 20px;
     cursor: pointer;
 }
+input[type=submit]:hover{
+	background-color: grey;
+}
 #contactform textarea {
 	width: 500px;
 	height: 200px;

@@ -6,7 +6,6 @@ body{
 	color:#777777;
 	line-height: 23px;
 	font-size: 18px;
-	
 }
 header{
 	border: 2px solid #cccccc;
@@ -81,7 +80,7 @@ header a{
 	margin-left: 17px;
 	width: 70px;
 	height: 70px;
-	
+
 }
 #connectme img:hover {background-color: grey;}
 
